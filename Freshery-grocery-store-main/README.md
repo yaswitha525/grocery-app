@@ -1,9 +1,9 @@
-🛒 ShopSmart: Your Digital Grocery Store
+🛒 Freshery: Your Digital Grocery Store
 
 📌 Description
-ShopSmart is a full-stack web application that offers a seamless digital grocery shopping experience. Customers can explore a wide range of products, view categories, add items to the cart, and complete purchases securely. It also supports seller and admin functionality for product management and inventory control.
+  Freshery is a full-stack web application that offers a seamless digital grocery shopping experience. Customers can explore a wide range of products, view categories, add items to the cart, and complete purchases securely. It also supports seller and admin functionality for product management and inventory control.
 
-Built using React, Node.js, Express, and MongoDB, ShopSmart is optimized for speed, user-friendliness, and scalability.
+Built using React, Node.js, Express, and MongoDB,  Freshery is optimized for speed, user-friendliness, and scalability.
 
 🧰 Tech Stack
 | Technology   | Purpose                         |
@@ -64,7 +64,7 @@ Modular code structure
 
 🚀 Getting Started
 1. Clone the repository
-2. git clone https://github.com/yourusername/shopsmart.git
+2. git clone https://github.com/yourusername/ Freshery.git
 cd grocery-aisle-digital-hub-main
 ⚙️ Backend Setup
 cd backend
