@@ -1,4 +1,4 @@
-🛒 Freshery: Your Digital Grocery Store
+🛒ShopSmart: Your Digital Grocery Store
 
 📌 Description
  Freshery is a full-stack web application that offers a seamless digital grocery shopping experience. Customers can explore a wide range of products, view categories, add items to the cart, and complete purchases securely. It also supports seller and admin functionality for product management and inventory control.
@@ -64,7 +64,7 @@ Modular code structure
 
 🚀 Getting Started
 1. Clone the repository
-2. git clone https://github.com/yourusername/Freshery.git
+2. git clone https://github.com/yourusername/ShopSmart.git
 cd grocery-aisle-digital-hub-main
 ⚙️ Backend Setup
 cd backend
