@@ -50,11 +50,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-grocery-green" />
-                <span className="text-gray-300">1-800-Freshery</span>
+                <span className="text-gray-300">1-800-ShopSmart</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-grocery-green" />
-                <span className="text-gray-300">support@Freshery.com</span>
+                <span className="text-gray-300">support@ShopSmart.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-grocery-green" />
@@ -66,7 +66,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 Freshery. All rights reserved. | Privacy Policy | Terms of Service
+            © 2024 ShopSmart. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>
