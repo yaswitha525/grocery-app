@@ -21,6 +21,11 @@ const HeroSection = () => {
               Fresh Groceries
               
             </h1>
+            <h1 className="text-4xl md:text-6xl font-bold mb-6 animate-fade-in">
+             Delivered Fast
+              
+            </h1>
+            <p>Shop from thousands of products and get them delivered to your doorstep in as fast as 30 minutes</p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in">
               <Button 
