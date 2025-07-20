@@ -39,7 +39,7 @@ const Header = () => {
               className="text-2xl font-bold text-green-600 cursor-pointer"
               onClick={() => navigate('/')}
             >
-             Freshery
+            ShopSmart
             </h1>
           </div>
 
